@@ -54,10 +54,10 @@ early detection of these feelings. This project investigates whether machine lea
 ---
 
 ## 📁 Repository Structure
-📂 code/  
-&nbsp;&nbsp;&nbsp;&nbsp;📓 Preprocessing.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;📓 DataCleaning_EDA.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;📓 Model_Implementation.ipynb
+📄 A machine learning approach to predict vasovagal reactions.pdf 
+📓 Preprocessing.ipynb  
+📓 DataCleaning_EDA.ipynb  
+📓 Model_Implementation.ipynb
 
 📄 README.md
 
