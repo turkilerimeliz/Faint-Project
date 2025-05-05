@@ -25,7 +25,7 @@ early detection of these feelings. This project investigates whether machine lea
 
 ---
 
-## 🛠️ Methodology
+## 🛠️ Dataset and Methodology
 
 - **Data**: Facial Action Unit (AU) intensities from video footage recorded *before needle insertion*. The data utilized in this study has been acquired from the Faint Project
 (FAINT, 2018), in an anonymized format.
