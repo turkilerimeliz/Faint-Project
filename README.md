@@ -54,7 +54,7 @@ early detection of these feelings. This project investigates whether machine lea
 ---
 
 ## 📁 Repository Structure
-📄 A machine learning approach to predict vasovagal reactions.pdf 
+📄 A machine learning approach to predict vasovagal reactions.pdf
 📓 Preprocessing.ipynb  
 📓 DataCleaning_EDA.ipynb  
 📓 Model_Implementation.ipynb
