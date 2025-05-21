@@ -35,14 +35,14 @@ early detection of these feelings. This project investigates whether machine lea
   - 🧍‍♀️ SSA scores obtained using 10-item somatosensory amplification scale test 
 - **Preprocessing**: EDA, data cleaning, feature engineering, oversampling.
 - **Models**: Trained using nested cross validation. 
-- **Evaluation Metrics**: 🎯 F1 Score, 📊 Recall,📈 PR-AUC,  ✅ Accuracy
+- **Evaluation Metrics**: ⚖️ F1 Score, 📊 Recall,📈 PR-AUC,  ✅ Accuracy
 
 ---
 
 ## 🧪 Results
 
 - 🌳 Random Forest showed the most balanced performance:
-  - 🎯 F1 Score: 0.49
+  - ⚖️ F1 Score: 0.49
   - 📊 Recall: 0.55
   - ✅ Accuracy: 0.63
   - 📈 PR-AUC included for comprehensive evaluation
